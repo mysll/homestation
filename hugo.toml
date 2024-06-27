@@ -2,3 +2,5 @@ baseURL = 'https://www.iargs.us.kg/'
 languageCode = 'zh-cn'
 title = 'home station'
 theme = 'ficurinia'
+
+copyright = "[home station](https://www.iargs.eu.kg)"
