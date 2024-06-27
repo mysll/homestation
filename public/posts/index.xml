@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
-    <title>home station</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on home station</description>
+    <title>Posts on home station</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on home station</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>[home station](https://www.iargs.eu.kg)</copyright>
-    <lastBuildDate>Thu, 27 Jun 2024 16:03:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/img/icon.svg</icon>
+    <lastBuildDate>Thu, 27 Jun 2024 16:03:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/img/icon.svg</icon>
     
     
     <item>
@@ -16,14 +16,9 @@
       
       <guid>http://localhost:1313/posts/first/</guid>
       <description><![CDATA[<h1 id="new-blog-with-hugo">new blog with hugo</h1>
-<p>这是一个测试页面,使用hugo生成</p>
 ]]></description>
       
     </item>
-    
-    
-    
-    
     
     
   </channel>
